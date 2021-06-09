@@ -17,13 +17,11 @@ It uses Google's mediapipe library to detect faces. For more information, please
 3. Activate environment
 4. >pip install -r requirement.txt
 5. >python Face_Mask_Detection.py
-6. Navigate to URL http://localhost:5000
 
 ## Please feel free to connect for any suggestions or doubts!!!
 
 ## Credits
-1. The credits for dataset used for training goes to https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset
-2. I have modified https://github.com/Pawandeep-prog/resnet-flask-webapp/tree/main/templates html templates for flask
+1. The credits for dataset used for training goes to https://github.com/balajisrinivas/Face-Mask-Detection
 
 
 ##### For better prediction, we need better image quality dataset for training.
