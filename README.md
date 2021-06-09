@@ -1,6 +1,6 @@
 # Face_Mask_Detection
 
-### Face_Mask_Detection  A Deep Learning project that checks whether a person is wearing face mask or not live on webcam
+### A Deep Learning project that checks whether a person is wearing a face mask or not live on a webcam
 
 This projects helps detecting Face Mask. I used MobilenetV2 because of comparatively lesser size and good performance.
 
