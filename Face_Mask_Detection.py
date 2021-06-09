@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  1 14:50:43 2021
-
-@author: 1636740
-"""
 import mediapipe as mp
 import numpy as np
 import cv2
@@ -82,7 +76,7 @@ def main():
     # No_of_frames = int(video.get(7))  
     # size = (frame_width, frame_height) 
     
-    # result = cv2.VideoWriter('C:/Users/1636740/Desktop/tshr/cv2/Magic_1.avi',  
+    # result = cv2.VideoWriter('Magic_1.avi',  
     #                          cv2.VideoWriter_fourcc(*'DIVX'), 
     #                          10, size) 
     
