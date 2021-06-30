@@ -6,7 +6,7 @@ This projects helps detecting Face Mask. I used MobilenetV2 because of comparati
 
 It uses Google's mediapipe library to detect faces. For more information, please visit https://google.github.io/mediapipe/solutions/face_detection.html.
 
-![Demo1](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/People_pred_YOLOv3.gif)
+![Demo1](https://github.com/tshr-d-dragon/Face_Mask_Detection/blob/main/Face_Mask.gif)
 
 ## Project Structure
 1. Model_training.ipynb file gives the walkthrough over the training part of classification of the Face Mask. Weights for MobilenetV2 model trained for 10 epochs is MobileNetV2.h5 file.   
